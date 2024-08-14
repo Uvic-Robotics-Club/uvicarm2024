@@ -16,5 +16,5 @@
     name="rviz"
     pkg="rviz"
     type="rviz"
-    args="-d $(find uvicarm2024)/urdf.rviz" />
+    args="-d $(find uvicarm2024)/urdf/urdf.rviz" />
 </launch>
